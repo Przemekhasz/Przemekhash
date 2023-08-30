@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/hi-icegif.gif" />
+  <img src="https://media.giphy.com/media/ZZeZA5NeC43870bG9U/giphy.gif" />
 </p>
 <br />
 
